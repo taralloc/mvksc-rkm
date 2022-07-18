@@ -1,0 +1,8 @@
+kernel1:
+  name: rbf
+  args:
+    sigma2: 3
+kernel2:
+  name: rbf
+  args:
+    sigma2: 3

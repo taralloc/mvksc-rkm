@@ -1,0 +1,9 @@
+name: reuters2
+N: -1
+mb_size: 1
+Ntest: 0
+shuffle: false
+workers: 0
+k: 6
+k_folds: 0
+normalize: false

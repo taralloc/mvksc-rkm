@@ -1,0 +1,4 @@
+name: normpoly
+args:
+  t: 10
+  d: 2

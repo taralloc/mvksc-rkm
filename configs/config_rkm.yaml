@@ -1,0 +1,7 @@
+seed: 0
+
+defaults:
+  - hydra: custom
+  - dataset: toydataset2
+  - model: rkm
+  - kernels: toydataset2_rbf

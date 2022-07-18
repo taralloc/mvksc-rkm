@@ -1,0 +1,3 @@
+name: rbf
+args:
+  sigma2: 1

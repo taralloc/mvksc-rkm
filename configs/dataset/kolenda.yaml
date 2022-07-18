@@ -1,0 +1,9 @@
+name: kolenda
+N: -1 #-1 means the entire dataset
+mb_size: 1
+Ntest: 0
+shuffle: false
+workers: 0
+k: 3
+k_folds: 0
+normalize: false

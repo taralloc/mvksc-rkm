@@ -1,0 +1,25 @@
+kernel1:
+  name: normpoly
+  args:
+    t: 10
+    d: 2
+kernel2:
+  name: normpoly
+  args:
+    t: 10
+    d: 2
+kernel3:
+  name: normpoly
+  args:
+    t: 10
+    d: 2
+kernel4:
+  name: normpoly
+  args:
+    t: 10
+    d: 2
+kernel5:
+  name: normpoly
+  args:
+    t: 10
+    d: 2

@@ -1,0 +1,24 @@
+kernel1:
+  name: rbf
+  args:
+    sigma2: 20
+kernel2:
+  name: rbf
+  args:
+    sigma2: 20
+kernel3:
+  name: rbf
+  args:
+    sigma2: 20
+kernel4:
+  name: rbf
+  args:
+    sigma2: 20
+kernel5:
+  name: rbf
+  args:
+    sigma2: 20
+kernel6:
+  name: rbf
+  args:
+    sigma2: 20

@@ -1,0 +1,28 @@
+name: rkm
+eta: 1.0
+assignment:
+  beta:
+    value: null # null or a list of V real values or null and you use below. must sum to 1.
+    beta1: null
+    beta2: null
+    beta3: null
+    beta4: null
+    beta5: null
+    beta6: null
+    beta7: null
+    beta8: null
+    beta9: null
+    beta10: null
+rho: 1.0 # a real value in [0,1]
+kappa:
+  value: 1.0 # a real value or a list of V real values or null and you use below
+  kappa1: null
+  kappa2: null
+  kappa3: null
+  kappa4: null
+  kappa5: null
+  kappa6: null
+  kappa7: null
+  kappa8: null
+  kappa9: null
+  kappa10: null

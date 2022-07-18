@@ -1,0 +1,7 @@
+seed: 0
+
+defaults:
+  - hydra: custom
+  - dataset: toydataset2
+  - model: ksc
+  - kernels: toydataset2_rbf_single

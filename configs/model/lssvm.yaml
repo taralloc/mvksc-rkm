@@ -1,0 +1,15 @@
+name: lssvm
+assignment:
+  beta: null # e.g., [1.0, 4.3, 0.1] for three views
+gamma:
+  value: 1.0 # a real value or a list of V real values or null and you use below
+  gamma1: null
+  gamma2: null
+  gamma3: null
+  gamma4: null
+  gamma5: null
+  gamma6: null
+  gamma7: null
+  gamma8: null
+  gamma9: null
+  gamma10: null
